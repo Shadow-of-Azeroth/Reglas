@@ -1,7 +1,7 @@
 # Reglas
 Reglas servidor privado SOA 
 
-Jorge:
+
 La principal tarea del Equipo de Shadow of Azeroth es asegurar que los jugadores van a poder disfrutar en todo momento del potencial que SOA les brinda. Pasamos muchas horas de nuestro tiempo implementando nuevos cambios en las distintas plataformas, resolviendo errores y generalmente ayudando a jugadores que están teniendo algún tipo de dificultad. Lamentablemente, algunas veces nos vemos obligados a tomar acciones disciplinarias contra jugadores que están dañando de algún modo la experiencia de otros, o al propio servidor.
 
  
